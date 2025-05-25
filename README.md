@@ -351,9 +351,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/real-time-face-recognition/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/real-time-face-recognition/discussions)
-- **Email**: support@yourproject.com
+- **Email**: behjattabrizi.sp@gmail.com
 
 ---
 
 
-**Built with ❤️ by Seyed Parsa Behjat Tabrizi**
+**Built by Seyed Parsa Behjat Tabrizi**
